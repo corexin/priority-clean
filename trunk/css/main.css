@@ -1,0 +1,170 @@
+body
+{
+	background: #434343 url(img/bg.gif) repeat-y top;
+	font-size: 17px;
+	font-family: Arial, sans-serif;
+	text-align:center;
+	display:block;
+	margin:0;
+	overflow-x:hidden;
+}
+
+#mainContainer
+{
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+    width: 1000px;
+	overflow: hidden;
+	padding:10px;
+	text-align:left;
+	display:block;
+	background-color: white;
+}
+
+#mainContainer #nav
+{
+	margin: 0;
+    width: 100%;
+	padding:10px 0px 10px 0px;
+	display: block;
+	background-color: dimGray;
+}
+
+#mainContainer #nav a
+{
+	text-decoration:none;
+	margin-right:3em;
+	color:white;
+	padding-left:10px;
+}
+
+#mainContainer #nav a:hover
+{
+	text-decoration:underline;
+	color:red;
+}
+
+#mainContainer #mainContent
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	display: block;
+ 	float:left;
+}
+ 
+#mainContainer #mainContent div.field
+{
+	width:100%;
+	height:auto;
+	margin:5px 0 5px 10px;
+	
+}
+
+#mainContainer #mainContent div.field label
+{
+	width:250px;
+	display:inline-block
+}
+#mainContainer #mainContent div.field input.long
+{
+	width:30%;
+	display:inline-block;
+}
+ 
+#mainContainer #mainContent div.row
+{
+	float:left;
+	width:100%;
+	margin:10px;
+	display:inline-block;
+	display:block;
+
+}
+ 
+#mainContainer #mainContent div.row img
+{
+	float:left;
+	margin:0 10px 0 0;
+	margin: 0 10px 10px 0;
+	
+}
+ 
+
+#mainContainer #mainContent .buttonBar 
+{
+	display:inline-block;
+	margin: 20px;
+	overflow:hidden;
+	width:50%;
+	float:left;
+}
+#mainContainer #mainContent .buttonBar input
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:middle;
+	float:left;
+	display:inline-block;
+	margin:10px;
+}
+
+ 
+#footer
+{
+	color: #444;
+	background: #E9E8E3;
+	width: 100%;
+	clear:both;
+	text-align:center;
+	overflow: hidden;
+	display:block;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	padding: 10px;
+	margin-top:10px;
+	border: 1px solid black;
+}
+
+/** shared */
+h1, h3, h4
+{
+	margin:10px;
+}
+p
+{
+	line-height:1.5em;
+	margin:10px;
+}
+span.clear { clear: both; display: block; }
+textArea
+{
+	vertical-align:top;
+	width:50%;
+	height:100px;
+}
+.currentPageFont
+{
+ 	
+	font-weight:bold;
+}
+.note
+{
+	color:red;
+}
+.hide
+{
+	display:none;
+}
+.vanadium-invalid
+{
+	color:red;
+	padding-left:5px;
+}
+
+textarea.vanadium-invalid
+{
+	color:gray;
+}
