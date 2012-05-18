@@ -1,0 +1,112 @@
+body
+{
+	font-size: 15px;
+	font-family:"Times New Roman", Times, serif;
+	display:block;
+	margin:0;
+}
+
+#mainContainer
+{
+	padding: 10px;
+    width: 1000px;
+	padding:10px;
+	text-align:left;
+	display:block;
+}
+
+#mainContainer #nav
+{
+	margin: 0;
+    width: 100%;
+	padding:10px 0px 10px 0px;
+	display: block;
+	background-color: dimGray;
+}
+
+#mainContainer #nav a
+{
+	text-decoration:none;
+	margin-right:3em;
+	color:white;
+	padding-left:10px;
+}
+
+#mainContainer #mainContent
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	display: block;
+}
+ 
+#mainContainer #mainContent div.field
+{
+	width:100%;
+	height:auto;
+	margin:5px 0 5px 10px;
+}
+
+#mainContainer #mainContent div.field label
+{
+	width:250px;
+	display:inline-block
+}
+#mainContainer #mainContent div.field input.long
+{
+	width:30%;
+	display:inline-block;
+}
+ 
+#mainContainer #mainContent div.row
+{
+	width:100%;
+	margin:10px;
+	display:block;
+}
+
+#mainContainer #mainContent .buttonBar 
+{
+	display:none;
+}
+ 
+#footer
+{
+ 	display:none;
+ }
+
+/** shared */
+h1, h3, h4
+{
+	margin:10px;
+}
+p
+{
+	line-height:1.5em;
+	margin:10px;
+}
+
+span.clear { clear: both; display: block; }
+
+textArea
+{
+	vertical-align:top;
+	width:50%;
+	height:100px;
+}
+.currentPageFont
+{
+	font-weight:bold;
+}
+.redColor
+{
+	color:red;
+}
+.hide
+{
+	display:none;
+}
+span.note
+{
+	display:none;
+}
