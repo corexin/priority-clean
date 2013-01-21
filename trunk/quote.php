@@ -17,6 +17,7 @@
 	<div class="field">
 		<label for="service_time">Preferred time</label>
 		<select id="service_time" name="service_time">
+			<option >07:00 AM</option>
 			<option >08:00 AM</option>
 			<option >09:00 AM</option>
 			<option >10:00 AM</option>
@@ -28,9 +29,6 @@
 			<option >03:00 PM</option>
 			<option >04:00 PM</option>
 			<option >05:00 PM</option>
-			<option >06:00 PM</option>
-			<option >07:00 PM</option>
-			<option >08:00 PM</option>
 		</select>
 
 	</div>
@@ -45,6 +43,7 @@
 			<option>4 bedrooms</option>
 			<option>5 bedrooms</option>
 			<option>6 bedrooms</option>
+			<option>N/A</option>
 		</select>
 	</div>
 	<div class="field">
@@ -54,15 +53,18 @@
 			<option>2 bathrooms</option>
 			<option>3 bathrooms</option>
 			<option>4 bathrooms</option>
+			<option>N/A</option>
 		</select>
 	</div>
  
 	<div class="field">
 		<label for="property_type">Property Type</label>
 		<select id="property_type" name="property_type">
+			<option>Apartment</option>	
+			<option>Unit</option>
 			<option>House</option>
 			<option>Townhouse</option>
-			<option>Unit</option>
+			<option>Commercial/Office</option>
 			<option>Other</option>
 		</select>
 	</div>
@@ -80,13 +82,11 @@
 		<label for="service_type">Service Type</label>
 		<select id="service_type" name="service_type">
 			<option>End Of Lease Cleaning</option>
-			<option>Bond Back Cleaning</option>
 			<option>Spring House Cleaning</option>
-			<option>Move In Cleaning</option>
-			<option>Move Out Cleaning</option>
-			<option>Pre-inspection Cleaning</option>
-			<option>Office/Shopfront Cleaning</option>
-			<option>Commercial Cleaning</option>
+			<option>Cleaning for Property Agent</option>
+			<option>Regular House Cleaning</option>
+			<option>Commercial/Office Cleaning</option>
+			<option>Carpet Steam Cleaning</option>
 			<option>Other</option>
 		</select>
 	</div>
