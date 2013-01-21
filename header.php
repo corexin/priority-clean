@@ -3,10 +3,9 @@
 <head>
 	<title>Privilege Cleaning</title>
 	<meta charset="UTF-8" />
-	<meta name="keywords" content="Canberra, Priority home, cleaning" />
-	<meta name="description" content="Privilege Cleaning" />
+	<meta name="keywords" content="Canberra, home, office, end of lease, carpet steam, commercial, domestic,professinoal, cleaning" />
+	<meta name="description" content="Canberra Home Office Cleaning" />
 	<meta name="author" content="chao Jiang" />
- 
 	<link rel="stylesheet" type="text/css"  href="css/main.css" media="screen" /> 
 	<link rel="stylesheet" type="text/css"  href="css/print.css" media="print" /> 
 	<link rel="stylesheet" href="css/ui-lightness/jquery.ui.all.css" type="text/css" media="screen" />
@@ -23,6 +22,10 @@
 <div id="mainContainer">
 	<div id="banner">
 		<img src="img/clean_logo.gif" />
+		<div class="contact">
+			<p>Mobile: <span class="thick">0434 192 354</span></p>
+			<p>Email: info@privilegecleaning.com.au</p>
+		</div>
 	</div>
 	<div id="nav">
 	
@@ -34,4 +37,5 @@
 		<a href="service.php" <?php if(strcasecmp($pageName , "service") == 0	) { echo ("class='currentPageFont'"); }?>>Service</a>
 		<a href="quote.php" <?php if(strcasecmp($pageName , "quote") == 0 || strcasecmp($pageName , "report") == 0	) { echo ("class='currentPageFont'"); }?>>Quote</a>
 		<a href="contact.php" <?php if(strcasecmp($pageName , "contact") == 0	) { echo ("class='currentPageFont'"); }?>>Contact</a>
+		<a href="special_offer.php" <?php if(strcasecmp($pageName , "special_offer") == 0	) { echo ("class='currentPageFont'"); }?>>Special Offer</a>
 	</div>
