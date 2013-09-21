@@ -6,12 +6,12 @@
 <div class="row">
  <img src="img/service_photo1.jpg"/>
  </div>
- 
+
 <h3>At Privilege Cleaning, we provide a complete range of professional cleaning services:</h3>
 
 <div class="row">
 	<div class="cell">
-		<a href="end_of_lease_clearning_canberra.php">
+		<a href="end_of_lease_cleaning_canberra.php">
 		<div class="headText">End Of Lease Cleaning</div>
 		<div >We are the experts to save you time and money</div>
 		<div><img src="img/1-1.jpg"/></div>
@@ -58,12 +58,12 @@
 		</a>
 	</div>
 </div>
- 
- 
- 
+
+
+
 </div>
 
- 
- 
- 
+
+
+
 <?php include("footer.php"); ?>
