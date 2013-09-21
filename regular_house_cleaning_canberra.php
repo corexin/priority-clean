@@ -3,7 +3,7 @@
 
 <div id="mainContent">
 
-	<h1>End of lease cleaning Canberra</h1>
+	<h1>Regular house cleaning Canberra</h1>
 	<img src="img/service_photo1.jpg"/>
 	 <p>
 	Want to come back to a clean home after work? Too busy with life and work, don't have time to clean yourself? Try our regular cleaning services!
