@@ -112,6 +112,22 @@ div.row div.cell
 	padding:5px 5px 5px 5px;
 }
 
+div.row div.box
+{
+	display:block;
+	width:31%;
+	float:left;
+	height:160px;
+	margin:4px;
+	padding:5px 5px 5px 5px;
+}
+
+div.row div.box img
+{
+	display:block;
+	clear:both;
+}
+
 div.row div.cell a
 {
 	text-decoration:none;
@@ -230,4 +246,11 @@ textarea.vanadium-invalid
 .thick 
 {
 font-weight:bold; 
+}
+
+.alignleft
+{
+	text-align:left;
+	 display: block;
+	 clear:left;
 }
