@@ -36,6 +36,7 @@
 		<a href="index.php" <?php if(strcasecmp($pageName , "index") == 0	) { echo ("class='currentPageFont'"); }?>>Home</a>
 		<a href="service.php" <?php if(strcasecmp($pageName , "service") == 0	) { echo ("class='currentPageFont'"); }?>>Service</a>
 		<a href="quote.php" <?php if(strcasecmp($pageName , "quote") == 0 || strcasecmp($pageName , "report") == 0	) { echo ("class='currentPageFont'"); }?>>Quote</a>
-		<a href="contact.php" <?php if(strcasecmp($pageName , "contact") == 0	) { echo ("class='currentPageFont'"); }?>>Contact</a>
 		<a href="special_offer.php" <?php if(strcasecmp($pageName , "special_offer") == 0	) { echo ("class='currentPageFont'"); }?>>Special Offer</a>
+		<a href="customers.php" <?php if(strcasecmp($pageName , "customers") == 0	) { echo ("class='currentPageFont'"); }?>>Customers</a>
+		<a href="contact.php" <?php if(strcasecmp($pageName , "contact") == 0	) { echo ("class='currentPageFont'"); }?>>Contact</a>
 	</div>
