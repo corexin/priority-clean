@@ -115,17 +115,17 @@ div.row div.cell
 div.row div.box
 {
 	display:block;
-	width:31%;
+	width:auto;
 	float:left;
-	height:160px;
-	margin:4px;
-	padding:5px 5px 5px 5px;
+	margin:10px;
+	padding:5px;
 }
 
-div.row div.box img
+div.row div.box a div
 {
 	display:block;
 	clear:both;
+	text-decoration:none;
 }
 
 div.row div.cell a
@@ -253,4 +253,9 @@ font-weight:bold;
 	text-align:left;
 	 display: block;
 	 clear:left;
+}
+
+.noUnderline
+{
+	text-decoration:none;
 }
