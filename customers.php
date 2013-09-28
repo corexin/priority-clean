@@ -7,61 +7,93 @@
  <img src="img/service_photo1.jpg"/>
  </div>
 
-<h3>Our service is used by the following companies:</h3>
+<h1>Our customers</h1>
 
-<div class="row">
-	<div class="box">
+	<div class="row">
+		<div class="box">
+			<a href="http://www.ljhooker.com.au" target="_blank">
+				<div><img src="img/customers/ljhooker.png"/></div>
+				<div class="thick alignleft">LJ Hooker - Gungahlin, Belconnen and Tuggeranong</div>
+				<div>http://www.ljhooker.com.au</div>
+			</a>
+		</div>
+	</div>
+
+		
+	<div class="row">
+		<div class="box">
+			<a href="http://www.peterblackshaw.com.au" target="_blank">
+				<div><img src="img/customers/peterblackshaw.png"/></div>
+				<div class="thick noUnderline">Peter Blackshaw - Manuka</div>
+				<div>http://www.peterblackshaw.com.au</div>
+			</a>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="box">
+			<a href="http://www.novas.com.au" target="_blank">
+				<div><img src="img/customers/novas_architectural.png"/></div>
+				<div>http://www.novas.com.au</div>
+			</a>
+		</div>
+	</div>
 	
-			<div><img src="img/refer/control_electronic.png"/></div>
-			 
-	</div>
+	<div class="row">
 		<div class="box">
-		 
-			<div><img src="img/refer/crown.png"/></div>
-		 
-	 
+			<a href="http://www.controlandelectric.com.au" target="_blank">
+				<div><img src="img/customers/control_electronic.png"/></div>
+				 <div>http://www.controlandelectric.com.au</div>
+			</a>
+		</div>
 	</div>
+	
+	<div class="row">
 		<div class="box">
-		 
-			<div><img src="img/refer/ljhooker.png"/></div>
-			<div class="thick alignleft">LJHooker- Gungahlin, Belconnen and Tuggeranong</div>
-		 
+			<a href="http://www.matrixcompliance.com.au" target="_blank">
+				<div><img src="img/customers/maxtrix_national_group.png"/></div>
+				 <div>http://www.matrixcompliance.com.au</div>
+			</a>
+		</div>
 	</div>
-</div>
-
- <div class="row">
-	<div class="box">
-	 
-			<div><img src="img/refer/maxtrix_national_group.png"/></div>
-			 
-	</div>
+	
+	<div class="row">
 		<div class="box">
-		 
-			<div><img src="img/refer/novas_architectural.png"/></div>
-		 
-		 
+			<a href="http://www.crownrelocations.com.au" target="_blank">
+				<div><img src="img/customers/crown.png"/></div>
+				<div>http://www.crownrelocations.com.au</div>
+			</a>
+		</div>
 	</div>
+
+	<div class="row">
 		<div class="box">
-		 
-			<div><img src="img/refer/peterblackshaw.png"/></div>
-			<div class="thick alignleft">Peterblackshaw - Manuka</div>
-		 
+			 <a href="http://www.pinnaclerealestate.com.au" target="_blank">
+				<div><img src="img/customers/pinnalcle.png"/></div>
+				<div>http://www.pinnaclerealestate.com.au</div>
+			</a>
+		</div>
 	</div>
-</div>
- <div class="row">
-	<div class="box">
-		 
-			<div><img src="img/refer/pinnalcle.png"/></div>
-		 
+
+	<div class="row">
+		<div class="box">
+			<a href = "http://www.duo.org.au" target="_blank">
+				<div><img src="img/customers/duo.png"/></div>
+				<div>http://www.duo.org.au</div>
+			</a>
+		</div>
+	 </div>
 	 
+	 <div class="row">
+		<div class="box">
+			<a href = "http://www.homehelp.org.au target="_blank">
+				<div><img src="img/customers/hhs.png"/></div>
+				<div>http://www.homehelp.org.au</div>
+			</a>
+		</div>
 	</div>
-	 
-	 
-</div>
 
 </div>
-
-
 
 
 <?php include("footer.php"); ?>
