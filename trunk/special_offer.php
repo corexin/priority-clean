@@ -7,10 +7,10 @@
 
 	<p>
 
-Book your end of lease cleaning with us before 28 Feb 2013 and get $30.00 off!
+Book your end of lease cleaning with us before 30 April 2014 and get $30.00 off! Please mention this offer when booking.
 <ul>
 <li>Not to be used in conjunction with any other offers.</li>
-<li>Valid until 28 Feb 2013.</li>
+<li>Valid until 30 April 2014.</li>
 </ul>
 </p>
 	<p>

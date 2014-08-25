@@ -11,20 +11,19 @@
 
 	<div class="row">
 		<div class="box">
-			<a href="http://www.ljhooker.com.au" target="_blank">
+			<a href = "http://www.dha.gov.au" target="_blank">
+				<div><img src="img/customers/dha.png"/></div>
+			</a>
+		</div>
+		
+		<div class="box">
+			<a href="http://belconnen.ljhooker.com.au" target="_blank">
 				<div><img src="img/customers/ljhooker.png"/></div>
 			</a>
-			<!--
-			<div class="thick alignleft">LJ Hooker - Gungahlin, Belconnen and Tuggeranong</div>
-			-->
-		</div>
-
-		<div class="box">
-			<a href = "http://www.homehelp.org.au" target="_blank">
-				<div><img src="img/customers/hhs.png"/></div>
-			</a>
-		</div>
 	
+			<div class="thick alignleft">LJ Hooker - Belconnen Office</div>
+	
+		</div>
 		<div class="box">
 			<a href="http://www.novas.com.au" target="_blank">
 				<div><img src="img/customers/novas_architectural.png"/></div>
@@ -63,10 +62,24 @@
 				<div><img src="img/customers/duo.png"/></div>
 			</a>
 		</div>
-
+		<div class="box">
+			<a href="http://www.peterblackshaw.com.au/gungahlin.html" target="_blank">
+				<div><img src="img/customers/peterblackshaw.png"/></div>
+				<div class="thick alignleft">Gungahlin Office</div>
+			</a>
+			<!--
+			<div class="thick alignleft">LJ Hooker - Gungahlin, Belconnen and Tuggeranong</div>
+			-->
+		</div>
 		
 	</div>
-
+<div class="row">
+		<div class="box">
+			<a href = "http://www.homehelp.org.au" target="_blank">
+				<div><img src="img/customers/hhs.png"/></div>
+			</a>
+		</div>
+		</div>
 </div>
 <script language="javascript">
 $(function() {

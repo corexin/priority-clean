@@ -1,10 +1,10 @@
 <html>
 <head>
 <head>
-	<title>Privilege Cleaning</title>
+	<title>Cleaning Service | Commercial Cleaning | Professional Cleaning Services</title>
 	<meta charset="UTF-8" />
-	<meta name="keywords" content="Canberra, home, office, end of lease, carpet steam, commercial, domestic,professinoal, cleaning" />
-	<meta name="description" content="Canberra Home Office Cleaning" />
+	<meta name="keywords" content="Cleaning Service, Cleaning, Commercial Cleaning, Cleaners, Professional Cleaning Services" />
+	<meta name="description" content=" Privilege Cleaning, one of the renowned cleaners in Canberra, ACT offers professional cleaning services for commercial and residential properties" />
 	<meta name="author" content="chao Jiang" />
 	<link rel="stylesheet" type="text/css"  href="css/main.css" media="screen" /> 
 	<link rel="stylesheet" type="text/css"  href="css/print.css" media="print" /> 
@@ -13,8 +13,20 @@
 	<script src="js/jquery.ui.core.js"></script>
 	<script src="js/jquery.ui.widget.js"></script>
 	<script src="js/jquery.ui.datepicker.js"></script>
+	<script src="js/jquery.ae.image.resize.js"></script>
      
 	<script src="js/simple-validate.js" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-31932407-1', 'privilegecleaning.com.au');
+  ga('send', 'pageview');
+
+</script>
  
 </head>
 
